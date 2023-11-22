@@ -1,8 +1,21 @@
-# React + Vite
+# CURSO DE REACT - CARRITO DE COMPRAS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Instalaciones requeridas para el curso
+### NodeJS
+Node.js®, Node.js, es un entorno en tiempo de ejecución multiplataforma para la capa del servidor (en el lado del servidor) basado en JavaScript.
 
-Currently, two official plugins are available:
+Node.js es un entorno controlado por eventos diseñado para crear aplicaciones escalables, permitiéndote establecer y gestionar múltiples conexiones al mismo tiempo. Gracias a esta característica, no tienes que preocuparte con el bloqueo de procesos, pues no hay bloqueos.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Link de instalación - https://nodejs.org/en
+
+### Vite
+Vite es una herramienta de compilación que tiene como objetivo proporcionar una experiencia de desarrollo más rápida y ágil para proyectos web modernos. Consta de dos partes principales:
+
+-Un servidor de desarrollo que proporciona mejoras enriquecidas de funcionalidades sobre módulos ES nativos, por ejemplo Hot Module Replacement (HMR) extremadamente rápido.
+-Un comando de compilación que empaqueta tu código con Rollup, preconfigurado para generar recursos estáticos altamente optimizados para producción.
+
+  >Comando de ejecución en consola - npm create vite@latest
+
+## Ejecución de nuestro proyecto
+Para poder ejecturar nuestro proyecto, debemos acceder a la carpeta de nuestro proyecto desde nuestra terminal o consola de comandos (CMD) y ejecutar el siguiente comando
+  >npm run dev
