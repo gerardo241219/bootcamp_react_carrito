@@ -19,3 +19,9 @@ Vite es una herramienta de compilación que tiene como objetivo proporcionar una
 ## Ejecución de nuestro proyecto
 Para poder ejecturar nuestro proyecto, debemos acceder a la carpeta de nuestro proyecto desde nuestra terminal o consola de comandos (CMD) y ejecutar el siguiente comando
   >npm run dev
+
+## Comandos para inicializar el proyecto
+Una vez descargado nuestro proyecto del repositorio. Vamos a abrir el proyecto en Visual Studio Code. Dentro de Code, vamos abrir una nueva terminal (Ctrl + ñ).
+Dentro de la terminal vamos a escribir los siguientes comandos
+  >npm install
+  >npm run dev
