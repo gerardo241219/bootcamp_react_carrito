@@ -8,6 +8,7 @@ function LoginPage() {
   const [isLogged, setIsLogged] = useState(false);
   const [spinner, setSpinner] = useState(false);
 
+
   const login = (e) => { // DECLARACION - FUNCION DE FLECHA
     e.preventDefault();
 
